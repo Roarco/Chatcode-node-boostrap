@@ -3,12 +3,9 @@
   "version": "1.0.0",
   "description": "Chat en tiempo real",
   "main": "server.js",
-  "engines": {
-    "node": "14.x"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node server.js",
+    "start": "node server.js",
     "start-dev": "nodemon server.js"
   },
   "keywords": [],
@@ -19,5 +16,8 @@
     "moment": "^2.29.3",
     "socket.io": "^4.5.1",
     "nodemon": "^2.0.16"
+  },
+  "engines": {
+    "node": "14.x"
   }
 }
