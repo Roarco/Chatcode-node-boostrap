@@ -3,6 +3,6 @@ Aplicacion creada para la actividad del modulo 1 de seminario de grado, la cual 
 haciendo uso de tecnologias como Node.js, Boostrap.
 
 ## Instalacion y Ejecucion
-1- Descargar Proyecto
-2- npm install
-3- npm run start-dev
+`Clonar repositorio https://github.com/Roarco/Chatcode-node-boostrap.git`
+`npm install`
+`npm run start-dev`
